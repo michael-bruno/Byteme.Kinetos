@@ -14,10 +14,10 @@ Model.Function = Class("package.HumanModule.Model.Function")
 		
 		params = Utils.Params:new("States")
 		params.Mapping = {
-			["Shield"] 				= {Type="Number"; Default=50};
+			["Shield"] 		= {Type="Number"; Default=50};
 			["SpeedMultiplier"] 	= {Type="Number"; Default=1};
-			["Stamina"] 			= {Type="Number"; Default=100};
-			["Combo"] 				= {Type="Number"; Default=0};
+			["Stamina"] 		= {Type="Number"; Default=100};
+			["Combo"] 		= {Type="Number"; Default=0};
 		}
 --]]
 
