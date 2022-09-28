@@ -2,6 +2,7 @@
 
 ## Structure
 - ReplicatedStorage
+  - [RaycastHitboxV4](https://github.com/Swordphin/raycastHitboxRbxl)
   - HumanModuleV1
     - Model:  _ModuleScript_
     - Utils:  _ModuleScript_
