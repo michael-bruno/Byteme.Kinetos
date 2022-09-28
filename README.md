@@ -1,4 +1,6 @@
 # Byteme.Kinetos Combat Engine
+Creates a custom Humanoid wrapper and allows developers to create custom attributes, properties, and functions.
+Exposes properties and methods as _Variable_ objects and _BindanbleFunctions_ found on the Humanoid object.
 
 ## Example Usage
 
