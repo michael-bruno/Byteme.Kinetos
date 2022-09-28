@@ -41,15 +41,15 @@ HumanModule.States = {
 	["IsBlocking"]			= {Type="Bool"; Default=false};
 	["IsChanneling"] 		= {Type="Bool"; Default=false};
 	["IsDodging"] 			= {Type="Bool"; Default=false};
-	["IsMeleeEquipped"] 	= {Type="Bool"; Default=false};
+	["IsMeleeEquipped"] 		= {Type="Bool"; Default=false};
 	["IsSprinting"] 		= {Type="Bool"; Default=false};
 }
 
 HumanModule.Attributes = {
-	["Shield"] 				= {Type="Number"; Default=50};
-	["SpeedMultiplier"] 	= {Type="Number"; Default=1};
+	["Shield"] 			= {Type="Number"; Default=50};
+	["SpeedMultiplier"] 		= {Type="Number"; Default=1};
 	["Stamina"] 			= {Type="Number"; Default=100};
-	["Combo"] 				= {Type="Number"; Default=0};
+	["Combo"] 			= {Type="Number"; Default=0};
 }
 
 HumanModule.Radiant = {
