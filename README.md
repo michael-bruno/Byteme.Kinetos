@@ -2,6 +2,8 @@
 Creates a custom Humanoid wrapper and allows users to create custom attributes, properties, and functions.
 Exposes properties and methods as _Variable_ objects and _BindableFunctions_ found on the Humanoid object.
 
+![fsm drawio](https://user-images.githubusercontent.com/25409074/193987181-80cd3d28-ce7c-462e-8259-37953ebfedcb.png)
+
 ## Example Usage
 
 Connect to _CharacterAdded_ Event and create _HumanModule_ instance
